@@ -7,7 +7,7 @@ export interface Row {
   timestamp: Date,
   uper_bound: number,
   lower_bound: number,
-  trigger_alert: number | undefined 
+  trigger_alert: number | undefined ,
 }
 
 
